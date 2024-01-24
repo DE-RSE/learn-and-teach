@@ -1,0 +1,11 @@
+de-RSE:
+  name        : "de-RSE e.V."
+  bio         : "Gesellschaft für Forschungssoftware"
+  avatar      : "/assets/images/rse.pngg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:vorstand@de-rse.org"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/RSE_de"
