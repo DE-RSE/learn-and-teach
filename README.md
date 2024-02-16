@@ -24,4 +24,4 @@ This project builds on Jekyll, which is a Ruby project. Therefore, you first nee
 
 After that, clone the repository and run `make`. This will get the dependencies in a local directory and build and serve the website.
 
-See the result in your [`localhost:4000/teach-and-learn`](http://127.0.0.1:4000/learn-and-teach/).
+See the result in your [`localhost:4000/learn-and-teach`](http://127.0.0.1:4000/learn-and-teach/).
