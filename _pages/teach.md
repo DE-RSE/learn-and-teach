@@ -16,11 +16,14 @@ Are teaching your own RSE courses? Are you trying to teach specific [skills](com
 
 {{ resource.content }}
 
-**Competencies covered:** {% for skill in resource.skills %} [{{skill}}](competencies) {% endfor %}
+**Competencies covered:** {% for skill in resource.skills %} [{{ skill }}]({{ site.baseurl }}/competencies#{{ skill }}) {% endfor %}
 
 Visit [{{ resource.title }}]({{ resource.link }})
 
+{% if resource.image %}
 ![Featured image of this resource]({{resource.image}})
+{% endif %}
 
 </div>
 {% endfor %}
+
