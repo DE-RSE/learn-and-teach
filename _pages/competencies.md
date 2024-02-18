@@ -3,32 +3,12 @@ title: RSE Competencies
 author_profile: false
 permalink: /competencies/
 layout: single
+toc: true
 ---
 
 In November 2023, as a result of the [deRSE23](https://de-rse23.sciencesconf.org/) and [un-deRSE23](https://un-derse23.sciencesconf.org/) conferences and follow-up discussions, the paper [Foundational Competencies and Responsibilities of a Research Software Engineer](https://arxiv.org/abs/2311.11457) by Florian Goth et al. defined a set of competencies (skills) that research software engineers typically have. These competencies are summarized here, together with resources related to each competence.
 
 The respective preprint is currently in extensive review from the RSE community.
-
-## Overview
-
-- Software engineering skills
-  - [Creating documented code building blocks (DOCBB)](#DOCBB)
-  - [Building distributable libraries (LIBS)](#LIBS)
-  - [Adapting to the software life-cycle (SWLC)](#SWLC)
-  - [Use repositories (SWREPOS)](#SWREPOS)
-  - [Software behaviour awareness and analysis (MOD)](#MOD)
-- Rsearch skills
-  - [Curiosity (NEW)](#NEW)
-  - [Understanding the research cycle (RC)](#RC)
-  - [Software re-use (SRU)](#SRU)
-  - [Software publication (SP)](#SP)
-  - [Using domain repositories/directories (DOMREP)](#DOMREP)
-- Communication skills
-  - [Working in a team (TEAM)](#TEAM)
-  - [Teaching (TEACH)](#TEACH)
-  - [Project management (PM)](#PM)
-  - [Interaction with users and other stakeholders (USERS)](#USERS)
-
 
 ## Software engineering skills
 
