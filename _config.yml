@@ -12,7 +12,7 @@ timezone: Europe/Berlin
 
 remote_theme: mmistakes/minimal-mistakes@4.19.1
 baseurl: /learn-and-teach
-repository: DE-RSE/survey_rse_training
+repository: DE-RSE/learn-and-teach
 
 include:
   - _pages
