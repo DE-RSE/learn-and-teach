@@ -11,9 +11,10 @@ The respective preprint is currently in extensive review from the RSE community.
 
 ## Software engineering skills
 
-### Creating documented code building blocks (DOCBB) <a name="DOCBB"></a>
+RSEs are Research **Software Engineers** and, as such, posess software engineering skills
+that allow them to create and maintain complex and FAIR (Findable, Accessible, Interoperable, and Reusable) research software.
 
-(Description summary: TODO)
+### Creating documented code building blocks (DOCBB) <a name="DOCBB"></a>
 
 {% assign resources = site.resources | where: "skills", "DOCBB"  %}
 {% for resource in resources %}
@@ -24,8 +25,6 @@ The respective preprint is currently in extensive review from the RSE community.
 
 ### Building distributable libraries (LIBS) <a name="LIBS"></a>
 
-(Description summary: TODO)
-
 {% assign resources = site.resources | where: "skills", "LIBS"  %}
 {% for resource in resources %}
 
@@ -34,8 +33,6 @@ The respective preprint is currently in extensive review from the RSE community.
 {% endfor %}
 
 ### Adapting to the software life-cycle (SWLC) <a name="SWLC"></a>
-
-(Description summary: TODO)
 
 {% assign resources = site.resources | where: "skills", "SWLC"  %}
 {% for resource in resources %}
@@ -46,8 +43,6 @@ The respective preprint is currently in extensive review from the RSE community.
 
 ### Use repositories (SWREPOS) <a name="SWREPOS"></a>
 
-(Description summary: TODO)
-
 {% assign resources = site.resources | where: "skills", "SWREPOS"  %}
 {% for resource in resources %}
 
@@ -56,8 +51,6 @@ The respective preprint is currently in extensive review from the RSE community.
 {% endfor %}
 
 ### Software behaviour awareness and analysis (MOD) <a name="MOD"></a>
-
-(Description summary: TODO)
 
 {% assign resources = site.resources | where: "skills", "MOD"  %}
 {% for resource in resources %}
@@ -68,9 +61,11 @@ The respective preprint is currently in extensive review from the RSE community.
 
 ## Research skills
 
-### Curiosity (NEW) <a name="NEW"></a>
+RSEs are working with **Research Software** and are capable of conducting research themselves.
+They are curious and have deep understanding of the research cycle and publication practices
+for ideas, software, and data.
 
-(Description summary: TODO)
+### Curiosity (NEW) <a name="NEW"></a>
 
 {% assign resources = site.resources | where: "skills", "NEW"  %}
 {% for resource in resources %}
@@ -81,8 +76,6 @@ The respective preprint is currently in extensive review from the RSE community.
 
 ### Understanding the research cycle (RC) <a name="RC"></a>
 
-(Description summary: TODO)
-
 {% assign resources = site.resources | where: "skills", "RC"  %}
 {% for resource in resources %}
 
@@ -91,8 +84,6 @@ The respective preprint is currently in extensive review from the RSE community.
 {% endfor %}
 
 ### Software re-use (SRU) <a name="SRU"></a>
-
-(Description summary: TODO)
 
 {% assign resources = site.resources | where: "skills", "SRU"  %}
 {% for resource in resources %}
@@ -103,8 +94,6 @@ The respective preprint is currently in extensive review from the RSE community.
 
 ### Software publication (SP) <a name="SP"></a>
 
-(Description summary: TODO)
-
 {% assign resources = site.resources | where: "skills", "SP"  %}
 {% for resource in resources %}
 
@@ -113,8 +102,6 @@ The respective preprint is currently in extensive review from the RSE community.
 {% endfor %}
 
 ### Using domain repositories/directories (DOMREP) <a name="DOMREP"></a>
-
-(Description summary: TODO)
 
 {% assign resources = site.resources | where: "skills", "DOMREP"  %}
 {% for resource in resources %}
@@ -125,9 +112,11 @@ The respective preprint is currently in extensive review from the RSE community.
 
 ## Communication skills
 
-### Working in a team (TEAM) <a name="TEAM"></a>
+RSEs are interacting extensively with others and, as such, they posess strong
+communication skills. They are typically embedded in a research group or work
+within a team of RSEs supporting particular research projects.
 
-(Description summary: TODO)
+### Working in a team (TEAM) <a name="TEAM"></a>
 
 {% assign resources = site.resources | where: "skills", "TEAM"  %}
 {% for resource in resources %}
@@ -138,8 +127,6 @@ The respective preprint is currently in extensive review from the RSE community.
 
 ### Teaching (TEACH) <a name="TEACH"></a>
 
-(Description summary: TODO)
-
 {% assign resources = site.resources | where: "skills", "TEACH"  %}
 {% for resource in resources %}
 
@@ -149,8 +136,6 @@ The respective preprint is currently in extensive review from the RSE community.
 
 ### Project management (PM) <a name="PM"></a>
 
-(Description summary: TODO)
-
 {% assign resources = site.resources | where: "skills", "PM"  %}
 {% for resource in resources %}
 
@@ -159,8 +144,6 @@ The respective preprint is currently in extensive review from the RSE community.
 {% endfor %}
 
 ### Interaction with users and other stakeholders (USERS) <a name="USERS"></a>
-
-(Description summary: TODO)
 
 {% assign resources = site.resources | where: "skills", "USERS"  %}
 {% for resource in resources %}
