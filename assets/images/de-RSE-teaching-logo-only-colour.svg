@@ -1,12 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   width="29.690931mm"
-   height="15.50613mm"
-   viewBox="0 0 29.690931 15.50613"
+   width="50.666393mm"
+   height="16.49391mm"
+   viewBox="0 0 50.666393 16.49391"
    version="1.1"
    id="svg4769"
    sodipodi:docname="de-RSE-teaching-logo-only-colour.svg"
    inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   inkscape:export-filename="/home/gc/repos/rse/logo-association/de-RSE-teaching-logo-only-colour.png"
+   inkscape:export-xdpi="125.75558"
+   inkscape:export-ydpi="125.75558"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -45,11 +48,11 @@
      inkscape:guide-bbox="true"
      inkscape:snap-text-baseline="true">
     <sodipodi:guide
-       position="28.559323,0"
+       position="28.559323,0.98777962"
        orientation="0,-1"
        id="guide29376" />
     <sodipodi:guide
-       position="29.690931,10.511504"
+       position="29.690931,11.499284"
        orientation="1,0"
        id="guide29378" />
   </sodipodi:namedview>
