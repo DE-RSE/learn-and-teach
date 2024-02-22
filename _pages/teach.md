@@ -3,6 +3,7 @@ title: Teach research software engineering
 author_profile: false
 permalink: /teach/
 layout: single
+toc: true
 ---
 
 Are teaching your own RSE courses? Are you trying to teach specific [skills](competencies)? These resources may help.
