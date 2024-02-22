@@ -20,8 +20,32 @@ If you contribute a pull request, a GitHub Actions workflow will build the websi
 
 ## Build this website
 
+### Build locally
+
 This project builds on Jekyll, which is a Ruby project. Therefore, you first need to get a Ruby installation.
 
 After that, clone the repository and run `make`. This will get the dependencies in a local directory and build and serve the website.
 
-See the result in your [`localhost:4000/learn-and-teach`](http://127.0.0.1:4000/learn-and-teach/).
+### Build inside a Docker container
+
+You can directly serve the website from a Docker container (using the community image [`jekyll/jekyll`](https://hub.docker.com/r/jekyll/jekyll)):
+
+```shell
+docker run --rm --volume="$PWD:/srv/jekyll:Z" --publish 127.0.0.1:4000:4000 -it jekyll/jekyll jekyll serve
+```
+
+Arguments:
+
+- `docker run`: The Docker command to run a container from an existing image
+- `--rm`: Automatically remove (or not) the container when it exists
+- `--volume`: Mount the current directory (`$PWD`) to a directory in the container (`/srv/jekyll`), so that only the current container can see the content (`:Z`)
+- `--publish`: Publish the container's port 4000 (where Jekyll serves the website) to the host port 4000. Note that `127.0.0.1` is the localhost in IPv4. For IPv6, you can replace that with `[::1]`.
+- `-it`: Interactive container, capturing signals (such as `Ctrl-C`).
+- `jekyll/jekyll`: The image
+- `jekyll serve`: The command to run. Somehow, the current default `make` target does not work in this context.
+
+## Visit the local build
+
+See the result in your [`http://localhost:4000/learn-and-teach`](http://localhost:4000/learn-and-teach/).
+
+The same URL holds both for building locally, as well as building inside Docker.
