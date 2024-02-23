@@ -14,7 +14,7 @@ As there is currently some duplication and very little content, don't cofuse thi
 
 ## How to contribute?
 
-See the [contributing guidelines](https://github.com/DE-RSE/survey_rse_training/blob/main/README.md), or [open an issue](https://github.com/DE-RSE/survey_rse_training/issues).
+See the [contributing guidelines](https://github.com/DE-RSE/learn-and-teach/blob/main/README.md), or [open an issue](https://github.com/DE-RSE/learn-and-teach/issues).
 
 If you contribute a pull request, a GitHub Actions workflow will build the website and generate a downloadable artifact, which you can view locally (currently not rendering correctly).
 
