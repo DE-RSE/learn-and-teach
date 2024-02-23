@@ -1,5 +1,7 @@
 # A survey of RSE training resources
 
+This is the source of a [`https://de-rse.org/learn-and-teach/`](https://de-rse.org/learn-and-teach/).
+
 Did you know that there is a career track with the job title _[Research Software Engineer](https://doi.org/10.5281/zenodo.7994286)_? Well, if you are not already one, you could **become one**!
 
 This repository (and eventually webpage) aims to collect _very good_ resources on teaching and learning RSE skills. Examples include:
