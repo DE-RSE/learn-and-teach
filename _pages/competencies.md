@@ -10,6 +10,8 @@ In November 2023, as a result of the [deRSE23](https://de-rse23.sciencesconf.org
 
 The respective preprint is currently in extensive review from the RSE community.
 
+[Contribute to this page](https://github.com/DE-RSE/learn-and-teach/blob/main/_pages/competencies.md).
+
 <!-- To add a new resource: https://github.com/DE-RSE/learn-and-teach/blob/main/CONTRIBUTING.md -->
 
 ## Software engineering skills
