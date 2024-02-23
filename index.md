@@ -48,7 +48,7 @@ We aim for original and extensive resources, targetting both general-purpose RSE
 
 ## How to contribute?
 
-See the [contributing guidelines](https://github.com/DE-RSE/learn-and-teach/blob/main/README.md), or [open an issue](https://github.com/DE-RSE/learn-and-teach/issues).
+See the [contributing guidelines](https://github.com/DE-RSE/learn-and-teach/blob/main/CONTRIBUTING.md), or [open an issue](https://github.com/DE-RSE/learn-and-teach/issues).
 
 ------
 
