@@ -8,6 +8,10 @@ toc: true
 
 Are teaching your own RSE courses? Are you trying to teach specific [skills](competencies)? These resources may help.
 
+[Contribute to this page](https://github.com/DE-RSE/learn-and-teach/blob/main/_pages/teach.md).
+
+<!-- To add a new resource: https://github.com/DE-RSE/learn-and-teach/blob/main/CONTRIBUTING.md -->
+
 {% assign resources = site.resources | where: "audience", "teach"  %}
 {% for resource in resources %}
 

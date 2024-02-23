@@ -8,7 +8,11 @@ toc: true
 
 Do you want to become an RSE? While there are few (if any) RSE-specific study programs at the moment, many are, at their core, programs that teach RSE skills. But, even if you have already studied something else, several online resources may help you obtain new [competencies]({{ site.baseurl }}/competencies).
 
+[Contribute to this page](https://github.com/DE-RSE/learn-and-teach/blob/main/_pages/learn.md).
+
 ## Study programs
+
+<!-- To add a study program, just add a new line in the corresponding table -->
 
 ### Curricula on Scientific Computing
 
@@ -45,6 +49,8 @@ Do you want to become an RSE? While there are few (if any) RSE-specific study pr
 - List of [Compuational Science programs](https://www.hochschulkompass.de/studium/studiengangsuche/erweiterte-studiengangsuche.html?tx_szhrksearch_pi1%5Bsearch%5D=1&tx_szhrksearch_pi1%5Bstudtyp%5D=3&tx_szhrksearch_pi1%5BQUICK%5D=1&tx_szhrksearch_pi1%5Bfach%5D=computational+science), maintained by Hochschulkompass.
 
 ## Online resources
+
+<!-- To add a new resource: https://github.com/DE-RSE/learn-and-teach/blob/main/CONTRIBUTING.md -->
 
 {% assign resources = site.resources | where: "audience", "learn"  %}
 {% for resource in resources %}
