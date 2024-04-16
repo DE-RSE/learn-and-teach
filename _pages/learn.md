@@ -27,6 +27,7 @@ Do you want to become an RSE? While there are few (if any) RSE-specific study pr
 | M.Sc. | [Scientific Computing](https://www.tu.berlin/studieren/studienangebot/gesamtes-studienangebot/studiengang/scientific-computing-m-sc)                                                             | TU Berlin                             | Germany | English |
 | B.Sc. | [Simulation Technology](https://www.uni-stuttgart.de/studium/bachelor/simulation-technology-b.sc./)                                                                                              | University of Stuttgart               | Germany | German  |
 | M.Sc. | [Simulation Technology](https://www.uni-stuttgart.de/studium/studienangebot/Simulation-Technology-M.Sc./)                                                                                        | University of Stuttgart               | Germany | German  |
+| M.Sc. | [Computational Sciences in Engineering](https://www.tu-braunschweig.de/en/cse) | Technische Universität Braunschweig | Germany | English  |
 
 ### Curricula on High-Performance Computing
 
