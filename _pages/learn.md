@@ -22,12 +22,12 @@ Do you want to become an RSE? While there are few (if any) RSE-specific study pr
 | M.Sc. | [Computational Modeling and Simulation](https://tu-dresden.de/studium/vor-dem-studium/studienangebot/sins/sins_studiengang?autoid=29461&set_language=en)                                         | TU Dresden                            | Germany | English |
 | M.Sc. | [Computational Science and Engineering](https://www.cit.tum.de/cit/studium/studiengaenge/master-computational-science-engineering/)                                                              | Technical University of Munich        | Germany | English |
 | M.Sc. | [Computational Science and Engineering](https://www.uni-ulm.de/mawi/mathematik-und-wirtschaftswissenschaften/studium-und-lehre/studiengaenge-master/m-sc-computational-science-and-engineering/) | University of Ulm                     | Germany | German  |
+| M.Sc. | [Computational Sciences in Engineering](https://www.tu-braunschweig.de/en/cse)                                                                                                                   | Technische Universität Braunschweig   | Germany | English |
 | M.Sc. | [Scientific Computing](https://www.uni-heidelberg.de/de/studium/alle-studienfaecher/scientific-computing/scientific-computing-master)                                                            | University of Heidelberg              | Germany | English |
 | M.Sc. | [Scientific Computing](https://www.scientific-computing.uni-bayreuth.de/en/index.html)                                                                                                           | University of Bayreuth                | Germany | English |
 | M.Sc. | [Scientific Computing](https://www.tu.berlin/studieren/studienangebot/gesamtes-studienangebot/studiengang/scientific-computing-m-sc)                                                             | TU Berlin                             | Germany | English |
 | B.Sc. | [Simulation Technology](https://www.uni-stuttgart.de/studium/bachelor/simulation-technology-b.sc./)                                                                                              | University of Stuttgart               | Germany | German  |
 | M.Sc. | [Simulation Technology](https://www.uni-stuttgart.de/studium/studienangebot/Simulation-Technology-M.Sc./)                                                                                        | University of Stuttgart               | Germany | German  |
-| M.Sc. | [Computational Sciences in Engineering](https://www.tu-braunschweig.de/en/cse) | Technische Universität Braunschweig | Germany | English  |
 
 ### Curricula on High-Performance Computing
 
