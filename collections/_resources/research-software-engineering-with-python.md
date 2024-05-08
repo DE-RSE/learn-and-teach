@@ -1,7 +1,7 @@
 ---
 title: "Research Software Engineering with Python"
-link: https://merely-useful.tech/py-rse/index.html
-image: https://merely-useful.tech/py-rse/tugboats-800x600.jpg
+link: https://third-bit.com/py-rse/
+image: https://third-bit.com/py-rse/tugboats-800x600.jpg
 skills: [DOCBB, LIBS, SWREPOS, SRU, TEAM, PM]
 audience: [learn, teach]
 ---
