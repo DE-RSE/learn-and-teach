@@ -12,14 +12,17 @@ Do you want to become an RSE? While there are few (if any) RSE-specific study pr
 
 ## Study programs
 
-<!-- To add a study program, just add a new line in the corresponding table -->
+<!-- To add a study program, just add a new line in the corresponding table. Entries are sorted alphabetically, per "Name". In case of the same name, B.Sc. comes before M.Sc.. -->
 
 ### Curricula on Scientific Computing
 
 | Level | Name            | University | Country | Language |
 | ---   | --------------- | ---------- | ------- | -------- |
+| B.Sc. | [Angewandte Informatik](https://www.uni-goettingen.de/de/640717.html)| University of Göttingen               | Germany | German  |
+| M.Sc. | [Angewandte Informatik](https://www.uni-goettingen.de/de/668042.html)| University of Göttingen               | Germany | German & English |
 | B.Sc. | [Computing in Science](https://www.uni-hamburg.de/campuscenter/studienangebot/studiengang.html?1239877544)                                                                                       | University of Hamburg                 | Germany | German  |
 | M.Sc. | [Computational Modeling and Simulation](https://tu-dresden.de/studium/vor-dem-studium/studienangebot/sins/sins_studiengang?autoid=29461&set_language=en)                                         | TU Dresden                            | Germany | English |
+| M.Sc. | [Computational Science](https://www.uni-potsdam.de/de/studium/studienangebot/masterstudium/master-a-z/computational-science-master)                                                                                        | University of Potsdam               | Germany | German & English  |
 | M.Sc. | [Computational Science and Engineering](https://www.cit.tum.de/cit/studium/studiengaenge/master-computational-science-engineering/)                                                              | Technical University of Munich        | Germany | English |
 | M.Sc. | [Computational Science and Engineering](https://www.uni-ulm.de/mawi/mathematik-und-wirtschaftswissenschaften/studium-und-lehre/studiengaenge-master/m-sc-computational-science-and-engineering/) | University of Ulm                     | Germany | German  |
 | M.Sc. | [Computational Sciences in Engineering](https://www.tu-braunschweig.de/en/cse)                                                                                                                   | Technische Universität Braunschweig   | Germany | English |
@@ -28,6 +31,8 @@ Do you want to become an RSE? While there are few (if any) RSE-specific study pr
 | M.Sc. | [Scientific Computing](https://www.tu.berlin/studieren/studienangebot/gesamtes-studienangebot/studiengang/scientific-computing-m-sc)                                                             | TU Berlin                             | Germany | English |
 | B.Sc. | [Simulation Technology](https://www.uni-stuttgart.de/studium/bachelor/simulation-technology-b.sc./)                                                                                              | University of Stuttgart               | Germany | German  |
 | M.Sc. | [Simulation Technology](https://www.uni-stuttgart.de/studium/studienangebot/Simulation-Technology-M.Sc./)                                                                                        | University of Stuttgart               | Germany | German  |
+| B.Sc. | [Informatik und Computational Science](https://www.uni-potsdam.de/de/studium/studienangebot/bachelor/ein-fach-bachelor/informatikcomputational-science-ein-fach-bachelor)                                                                                        | University of Potsdam               | Germany | German  |
+
 
 ### Curricula on High-Performance Computing
 
@@ -40,6 +45,7 @@ Do you want to become an RSE? While there are few (if any) RSE-specific study pr
 
 | Level | Name            | University | Country | Language |
 | ---   | --------------- | ---------- | ------- | -------- |
+| M.Sc. | [Data Science](https://www.uni-potsdam.de/de/studium/studienangebot/masterstudium/master-a-z/data-science-master)                                                                                        | University of Potsdam               | Germany | English  |
 | B.Sc. | [Data Science and Scientific Computing](https://www.cs.hm.edu/studienangebote/studiengaenge/id_data_science/index.de.html)                                                                       | Munich University of Applied Sciences | Germany | German  |
 | M.Sc. | [Data Engineering and Analytics](https://www.tum.de/en/studies/degree-programs/detail/data-engineering-and-analytics-master-of-science-msc)                                                      | Technical University of Munich        | Germany | English |
 | M.Sc. | [High-Performance Computing with Data Science](https://www.epcc.ed.ac.uk/education-and-training/masters-programmes)                                                                              | University of Edinburgh               | UK      | English |
