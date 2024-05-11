@@ -12,7 +12,7 @@ Do you want to become an RSE? While there are few (if any) RSE-specific study pr
 
 ## Study programs
 
-<!-- To add a study program, just add a new line in the corresponding table -->
+<!-- To add a study program, just add a new line in the corresponding table. Entries are sorted alphabetically, per "Name". In case of the same name, B.Sc. comes before M.Sc.. -->
 
 ### Curricula on Scientific Computing
 
