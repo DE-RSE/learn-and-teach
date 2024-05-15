@@ -1,7 +1,7 @@
 ---
 title: "The Turing Way"
 link: https://book.the-turing-way.org/
-skills: [DOCBB, LIBS, SWLC, SWREPOS, SRU, SP , TEAM, PM, USERS]
+skills: [DOCBB, SWREPOS, SRU, SP, TEAM, PM, USERS]
 audience: [learn]
 ---
 The Turing Way handbook to reproducible, ethical and collaborative data science.
