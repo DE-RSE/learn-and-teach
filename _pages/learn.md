@@ -38,6 +38,7 @@ Do you want to become an RSE? While there are few (if any) RSE-specific study pr
 
 | Level | Name            | University | Country | Language |
 | ---   | --------------- | ---------- | ------- | -------- |
+| M.Sc. | [EUMaster4HPC](https://eumaster4hpc.uni.lu/)                                                                                                                                                     | Univ. Luxembourg and more             | EU      | English |
 | M.Sc. | [High-Performance Computing](https://www.mhpc.it/)                                                                                                                                               | SISSA and ICTP                        | Italy   | English |
 | M.Sc. | [High-Performance Computing](https://www.epcc.ed.ac.uk/education-and-training/masters-programmes)                                                                                                | University of Edinburgh               | UK      | English |
 
