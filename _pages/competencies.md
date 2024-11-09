@@ -19,6 +19,15 @@ The respective preprint is currently in extensive review from the RSE community.
 RSEs are Research **Software Engineers** and, as such, posess software engineering skills
 that allow them to create and maintain complex and FAIR (Findable, Accessible, Interoperable, and Reusable) research software.
 
+### Adapting to the software life-cycle (SWLC) <a name="SWLC"></a>
+
+{% assign resources = site.resources | where: "skills", "SWLC"  %}
+{% for resource in resources %}
+
+- [{{ resource.title }}]({{ resource.link }})
+
+{% endfor %}
+
 ### Creating documented code building blocks (DOCBB) <a name="DOCBB"></a>
 
 {% assign resources = site.resources | where: "skills", "DOCBB"  %}
@@ -28,18 +37,9 @@ that allow them to create and maintain complex and FAIR (Findable, Accessible, I
 
 {% endfor %}
 
-### Building distributable libraries (LIBS) <a name="LIBS"></a>
+### Building distributable software (DIST) <a name="DIST"></a>
 
-{% assign resources = site.resources | where: "skills", "LIBS"  %}
-{% for resource in resources %}
-
-- [{{ resource.title }}]({{ resource.link }})
-
-{% endfor %}
-
-### Adapting to the software life-cycle (SWLC) <a name="SWLC"></a>
-
-{% assign resources = site.resources | where: "skills", "SWLC"  %}
+{% assign resources = site.resources | where: "skills", "DIST"  %}
 {% for resource in resources %}
 
 - [{{ resource.title }}]({{ resource.link }})

@@ -2,7 +2,7 @@
 title: Suresoft
 link: https://suresoft.dev
 image: https://suresoft.dev/site/img/branding/Suresoft_Logo.png
-skills: [DOCBB, LIBS, SWLC, SWREPOS, MOD, SRU, SP, PM]
+skills: [DOCBB, DIST, SWLC, SWREPOS, MOD, SRU, SP, PM]
 audience: [learn]
 ---
 

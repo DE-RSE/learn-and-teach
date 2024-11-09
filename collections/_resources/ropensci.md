@@ -1,7 +1,7 @@
 ---
 title: rOpenSci
 link: https://ropensci.org/
-skills: [LIBS, SWREPOS]
+skills: [DIST, SWREPOS]
 audience: [learn]
 ---
 

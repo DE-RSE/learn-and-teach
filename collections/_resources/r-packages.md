@@ -1,7 +1,7 @@
 ---
 title: R Packages (2e)
 link: https://r-pkgs.org/
-skills: [SP, LIBS]
+skills: [SP, DIST]
 audience: [learn]
 ---
 
