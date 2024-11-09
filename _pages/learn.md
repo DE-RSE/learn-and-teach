@@ -55,6 +55,8 @@ Do you want to become an RSE? While there are few (if any) RSE-specific study pr
 - List of [Degree & Certificate Programs in Bioinformatics](https://www.iscb.org/iscb-degree-certificate-programs), maintained by the International Society for Computational Biology.
 - List of [Compuational Science programs](https://www.hochschulkompass.de/studium/studiengangsuche/erweiterte-studiengangsuche.html?tx_szhrksearch_pi1%5Bsearch%5D=1&tx_szhrksearch_pi1%5Bstudtyp%5D=3&tx_szhrksearch_pi1%5BQUICK%5D=1&tx_szhrksearch_pi1%5Bfach%5D=computational+science), maintained by Hochschulkompass.
 
+In the teachingRSE project, we are also working on a recommendation for an RSE Master's programme. Contact us, or contribute on [GitHub](https://github.com/the-teachingRSE-project/RSE-Masters).
+
 ## Online resources
 
 <!-- To add a new resource: https://github.com/DE-RSE/learn-and-teach/blob/main/CONTRIBUTING.md -->
