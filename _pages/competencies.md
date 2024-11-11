@@ -10,6 +10,8 @@ In November 2023, as a result of the [deRSE23](https://de-rse23.sciencesconf.org
 
 The respective preprint is currently in extensive review from the RSE community.
 
+The resources displayed here are [collected by the community](https://github.com/DE-RSE/learn-and-teach). Initial content was collected in an [online discussion](https://github.com/DE-RSE/learn-and-teach/issues/2) and at the [notes of deRSE23](https://pad.gwdg.de/teaching-RSE-resource-pad).
+
 [Contribute to this page](https://github.com/DE-RSE/learn-and-teach/blob/main/_pages/competencies.md).
 
 <!-- To add a new resource: https://github.com/DE-RSE/learn-and-teach/blob/main/CONTRIBUTING.md -->
