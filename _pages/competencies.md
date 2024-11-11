@@ -14,9 +14,9 @@ The respective preprint is currently in extensive review from the RSE community.
 
 <!-- To add a new resource: https://github.com/DE-RSE/learn-and-teach/blob/main/CONTRIBUTING.md -->
 
-## Software engineering skills
+## Software/Technical skills
 
-RSEs are Research **Software Engineers** and, as such, posess software engineering skills
+RSEs are Research **Software Engineers** and, as such, possess software engineering skills
 that allow them to create and maintain complex and FAIR (Findable, Accessible, Interoperable, and Reusable) research software.
 
 ### Adapting to the software life-cycle (SWLC) <a name="SWLC"></a>
