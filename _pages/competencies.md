@@ -6,9 +6,9 @@ layout: single
 toc: true
 ---
 
-In November 2023, as a result of the [deRSE23](https://de-rse23.sciencesconf.org/) and [un-deRSE23](https://un-derse23.sciencesconf.org/) conferences and follow-up discussions, the paper [Foundational Competencies and Responsibilities of a Research Software Engineer](https://arxiv.org/abs/2311.11457) by Florian Goth et al. defined a set of competencies (skills) that research software engineers typically have. These competencies are summarized here, together with resources related to each competence.
+The paper [Foundational Competencies and Responsibilities of a Research Software Engineer](https://arxiv.org/abs/2311.11457) (a [de-RSE position paper](https://de-rse.org/en/positions.html)) defines a set of competencies (skills) that research software engineers typically have. These competencies are summarized here, together with resources related to each competence.
 
-The respective preprint is currently in extensive review from the RSE community.
+The resources displayed here are [collected by the community](https://github.com/DE-RSE/learn-and-teach). Initial content was collected in the [deRSE23](https://de-rse23.sciencesconf.org/) and [un-deRSE23](https://un-derse23.sciencesconf.org/) conferences, as well as follow-up discussions: see the [notes of deRSE23](https://pad.gwdg.de/teaching-RSE-resource-pad) and [this issue](https://github.com/DE-RSE/learn-and-teach/issues/2).
 
 [Contribute to this page](https://github.com/DE-RSE/learn-and-teach/blob/main/_pages/competencies.md).
 
