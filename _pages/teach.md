@@ -6,7 +6,7 @@ layout: single
 toc: true
 ---
 
-Are teaching your own RSE courses? Are you trying to teach specific [skills](competencies)? These resources may help.
+Are teaching your own RSE courses? Are you trying to teach specific [skills]({{ site.baseurl }}/competencies)? These resources may help.
 
 [Contribute to this page](https://github.com/DE-RSE/learn-and-teach/blob/main/_pages/teach.md).
 
