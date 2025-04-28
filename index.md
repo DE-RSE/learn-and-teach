@@ -46,6 +46,8 @@ You can find here some _very good_ resources on teaching and learning RSE skills
 
 We aim for original and extensive resources, targetting both general-purpose RSEs, as well as RSE specializations.
 
+This collection is curated by the teachingRSE group. We organize ourselves on [GitHub](https://github.com/the-teachingRSE-project) and we publish outputs on our [Zenodo community](https://zenodo.org/communities/teachingrse).
+
 ## How to contribute?
 
 See the [contributing guidelines](https://github.com/DE-RSE/learn-and-teach/blob/main/CONTRIBUTING.md), or [open an issue](https://github.com/DE-RSE/learn-and-teach/issues).
