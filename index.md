@@ -47,6 +47,8 @@ You can find here some _very good_ resources on teaching and learning RSE skills
 We aim for original and extensive resources, targetting both general-purpose RSEs, as well as RSE specializations.
 
 This collection is curated by the teachingRSE group. We organize ourselves on [GitHub](https://github.com/the-teachingRSE-project) and we publish outputs on our [Zenodo community](https://zenodo.org/communities/teachingrse).
+We communicate on [Matrix](https://matrix.to/#/#de-rse.org-AK-trainingRSE:matrix.org) and a [mailing list](https://www.listserv.dfn.de/sympa/info/jmu-teachingrse).
+If you are interested in joining our efforts, just drop in one of our meetings announced there.
 
 ## How to contribute?
 
