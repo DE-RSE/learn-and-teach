@@ -6,7 +6,9 @@ layout: single
 toc: true
 ---
 
-Do you want to become an RSE? While there are few (if any) RSE-specific study programs at the moment, many are, at their core, programs that teach RSE skills. But, even if you have already studied something else, several online resources may help you obtain new [competencies]({{ site.baseurl }}/competencies).
+Do you want to become an RSE? While there are few (if any) RSE-specific study programs at the moment, many are, at their core, programs that teach RSE skills. But, even if you have already studied something else, several online resources may help you obtain new [competencies]({{ site.baseurl }}/competencies). This is only a crowd-sourced list that is not in any way meant to be exhaustive or providing any kind of approval.
+
+By the way, our group is developing an [RSE Master's program](https://github.com/the-teachingRSE-project/RSE-Masters). Join our effort and help us shape the future of RSE education!
 
 [Contribute to this page](https://github.com/DE-RSE/learn-and-teach/blob/main/_pages/learn.md).
 
