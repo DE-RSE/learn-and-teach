@@ -49,6 +49,7 @@ Do you want to become an RSE? While there are few (if any) RSE-specific study pr
 | M.Sc. | [Data Science](https://www.uni-potsdam.de/de/studium/studienangebot/masterstudium/master-a-z/data-science-master)                                                                                | University of Potsdam                 | Germany | English |
 | B.Sc. | [Data Science and Scientific Computing](https://www.cs.hm.edu/studienangebote/studiengaenge/id_data_science/index.de.html)                                                                       | Munich University of Applied Sciences | Germany | German  |
 | M.Sc. | [Data Engineering and Analytics](https://www.tum.de/en/studies/degree-programs/detail/data-engineering-and-analytics-master-of-science-msc)                                                      | Technical University of Munich        | Germany | English |
+| M.Sc. | [Data Science](https://www.fernuni-hagen.de/mi/studium/msc_datascience/module.shtml)                                                                                                             | FernUniversität in Hagen              |   Germany | German
 | M.Sc. | [High-Performance Computing with Data Science](https://www.epcc.ed.ac.uk/education-and-training/masters-programmes)                                                                              | University of Edinburgh               | UK      | English |
 
 ### Other initiatives
