@@ -24,7 +24,7 @@ By the way, our group is developing an [RSE Master's program](https://github.com
 | M.Sc. | [Angewandte Informatik](https://www.uni-goettingen.de/de/668042.html)                                                                                                                            | University of Göttingen               | Germany | German & English |
 | B.Sc. | [Computing in Science](https://www.uni-hamburg.de/campuscenter/studienangebot/studiengang.html?1239877544)                                                                                       | University of Hamburg                 | Germany | German  |
 | M.Sc. | [Computational Modeling and Simulation](https://tu-dresden.de/studium/vor-dem-studium/studienangebot/sins/sins_studiengang?autoid=29461&set_language=en)                                         | TU Dresden                            | Germany | English |
-| M.Sc. | [Computational Science](https://www.uni-potsdam.de/de/studium/studienangebot/masterstudium/master-a-z/computational-science-master)                                                              | University of Potsdam                 | Germany | German & English  |
+| M.Sc. | [Computational Science](https://www.uni-potsdam.de/de/studium/studienangebot/master/computational-science)                                                                                       | University of Potsdam                 | Germany | German & English  |
 | M.Sc. | [Computational Science and Engineering](https://www.cit.tum.de/cit/studium/studiengaenge/master-computational-science-engineering/)                                                              | Technical University of Munich        | Germany | English |
 | M.Sc. | [Computational Science and Engineering](https://www.uni-ulm.de/mawi/mathematik-und-wirtschaftswissenschaften/studium-und-lehre/studiengaenge-master/m-sc-computational-science-and-engineering/) | University of Ulm                     | Germany | German  |
 | M.Sc. | [Computational Sciences in Engineering](https://www.tu-braunschweig.de/en/cse)                                                                                                                   | Technische Universität Braunschweig   | Germany | English |
@@ -34,7 +34,7 @@ By the way, our group is developing an [RSE Master's program](https://github.com
 | B.Sc. | [Simulation Technology](https://www.uni-stuttgart.de/studium/bachelor/simulation-technology-b.sc./)                                                                                              | University of Stuttgart               | Germany | German  |
 | M.Sc. | [Simulation Technology](https://www.uni-stuttgart.de/studium/studienangebot/Simulation-Technology-M.Sc./)                                                                                        | University of Stuttgart               | Germany | German  |
 | B.Sc. | [Informatik und Computational Science](https://www.uni-potsdam.de/de/studium/studienangebot/bachelor/ein-fach-bachelor/informatikcomputational-science-ein-fach-bachelor)                        | University of Potsdam                 | Germany | German  |
-
+| B.Sc. | [Computer Science](https://www.rwth-aachen.de/go/id/bnzs?lidx=1)                                                                                                                                 | RWTH Aachen University                | Germany | German  |
 
 ### Curricula on High-Performance Computing
 
@@ -48,16 +48,17 @@ By the way, our group is developing an [RSE Master's program](https://github.com
 
 | Level | Name            | University | Country | Language |
 | ---   | --------------- | ---------- | ------- | -------- |
-| M.Sc. | [Data Science](https://www.uni-potsdam.de/de/studium/studienangebot/masterstudium/master-a-z/data-science-master)                                                                                | University of Potsdam                 | Germany | English |
-| B.Sc. | [Data Science and Scientific Computing](https://www.cs.hm.edu/studienangebote/studiengaenge/id_data_science/index.de.html)                                                                       | Munich University of Applied Sciences | Germany | German  |
+| M.Sc. | [Data Science](https://www.uni-potsdam.de/de/studium/studienangebot/master/data-science)                                                                                                         | University of Potsdam                 | Germany | English |
+| B.Sc. | [Data Science and Scientific Computing](https://cs.hm.edu/studieninteressierte/studienangebot/bachelor_data_science/index.de.html)                                                               | Munich University of Applied Sciences | Germany | German  |
 | M.Sc. | [Data Engineering and Analytics](https://www.tum.de/en/studies/degree-programs/detail/data-engineering-and-analytics-master-of-science-msc)                                                      | Technical University of Munich        | Germany | English |
 | M.Sc. | [Data Science](https://www.fernuni-hagen.de/mi/studium/msc_datascience/module.shtml)                                                                                                             | FernUniversität in Hagen              |   Germany | German
 | M.Sc. | [High-Performance Computing with Data Science](https://www.epcc.ed.ac.uk/education-and-training/masters-programmes)                                                                              | University of Edinburgh               | UK      | English |
+| M.Sc. | [Data Science](https://www.rwth-aachen.de/go/id/pzpc?lidx=1)                                                                                                                                     | RWTH Aachen University                | Germany | English |
 
 ### Other initiatives
 
-- List of [Degree & Certificate Programs in Bioinformatics](https://www.iscb.org/iscb-degree-certificate-programs), maintained by the International Society for Computational Biology.
-- List of [Compuational Science programs](https://www.hochschulkompass.de/studium/studiengangsuche/erweiterte-studiengangsuche.html?tx_szhrksearch_pi1%5Bsearch%5D=1&tx_szhrksearch_pi1%5Bstudtyp%5D=3&tx_szhrksearch_pi1%5BQUICK%5D=1&tx_szhrksearch_pi1%5Bfach%5D=computational+science), maintained by Hochschulkompass.
+- List of [Degree & Certificate Programs in Bioinformatics](https://www.iscb.org/nucleus/education-and-training-resources/degree-and-certificate-programs-in-bioinformatics), maintained by the International Society for Computational Biology.
+- List of [Computational Science programs](https://www.hochschulkompass.de/studium/studiengangsuche/erweiterte-studiengangsuche.html?tx_szhrksearch_pi1%5Bsearch%5D=1&tx_szhrksearch_pi1%5Bstudtyp%5D=3&tx_szhrksearch_pi1%5BQUICK%5D=1&tx_szhrksearch_pi1%5Bfach%5D=computational+science), maintained by Hochschulkompass.
 
 In the teachingRSE project, we are also working on a recommendation for an RSE Master's programme. Contact us, or contribute on [GitHub](https://github.com/the-teachingRSE-project/RSE-Masters).
 
