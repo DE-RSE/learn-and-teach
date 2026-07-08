@@ -35,6 +35,7 @@ By the way, our group is developing an [RSE Master's program](https://github.com
 | M.Sc. | [Simulation Technology](https://www.uni-stuttgart.de/studium/studienangebot/Simulation-Technology-M.Sc./)                                                                                        | University of Stuttgart               | Germany | German  |
 | B.Sc. | [Informatik und Computational Science](https://www.uni-potsdam.de/de/studium/studienangebot/bachelor/ein-fach-bachelor/informatikcomputational-science-ein-fach-bachelor)                        | University of Potsdam                 | Germany | German  |
 | B.Sc. | [Computer Science](https://www.rwth-aachen.de/go/id/bnzs?lidx=1)                                                                                                                                 | RWTH Aachen University                | Germany | German  |
+| M.Sc | [Simulation Sciences](https://www.mss.rwth-aachen.de/go/id/bfaych/lidx/1) | RWTH Aachen University                | Germany | English  |
 
 ### Curricula on High-Performance Computing
 
